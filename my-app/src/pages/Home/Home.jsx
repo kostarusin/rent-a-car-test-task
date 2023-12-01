@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <div className={style.background}>
-      <h1>Rent a car car</h1>
+      <h1>Rent a car</h1>
       <nav>
         <Link to="/">Home</Link>
         <Link to="/catalogue">Catalogue</Link>
